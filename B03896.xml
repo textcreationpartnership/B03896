@@ -1,0 +1,657 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honorable societies of Gray's-Inne, and of the rest of the innes of court, and to all the professors of the law</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03896</idno>
+            <idno type="STC">Wing J610</idno>
+            <idno type="STC">ESTC R178974</idno>
+            <idno type="EEBO-CITATION">13301957</idno>
+            <idno type="OCLC">ocm 13301957</idno>
+            <idno type="VID">179485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 459:15, 2790:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honorable societies of Gray's-Inne, and of the rest of the innes of court, and to all the professors of the law</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title p. 1: Lex terræ.</note>
+                  <note>With marginal notes.</note>
+                  <note>Dated and signed at end: 28 ̊Aprilis 1647.  David Jenkins.  Now prisoner in the Tower.</note>
+                  <note>Appears at reels 459:15 and 2790:17.</note>
+                  <note>Reproductions of the originals in the Huntington Library and the California State Library, Sutro branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constitutional law --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:179485:1" rendition="simple:additions"/>
+            <head>To the HONORABLE Societies of GRAY'S-<hi>Inne,</hi> and of the reſt of the Innes of Court, and to all the Profeſſors of the LAW.</head>
+            <p>
+               <hi>I</hi> Have now ſpent forty five yeares in the Study of the Lawes of this Land being my profeſſion, under and by the conduct of which Lawes this commonwealth hath flouri<g ref="char:EOLhyphen"/>ſhed for ſome ages paſt in greate ſplendor and happineſſe <hi>(jam ſeges eſt ubi Troja fuit)</hi> The great and full body of this Kingdome hath of late yeares fallen into an extream ſickneſſe, it is truly ſaid that the cauſe of the diſeaſe being known, the diſeaſe is eaſily cured. There is none of you I hope, but doth heartily wiſh the recovery of our common parent, our native country <hi>(Moribus antiquis ſtatres Brittannica)</hi> I call God to witnes that this diſcourſe of mine hath no other end then my wiſhes of the common good: How farr I have been from Ambition, my life paſt, and your own knowledge of me, can abundantly informe you, and many of you well know, that I ever deteſted the Shippe-mony, and Monopolies, and that in the beginning of this Parliament, for oppoſing the exceſſes of one of the Biſhoppes, I lay under three Excommunications and the Examination of ſeeventy ſeven Articles in the high Commiſſion Court. His ſacred Majeſtie: (God is my witneſſe) made me a Judge in the parts of Wales a<g ref="char:EOLhyphen"/>gainſt my will, and all the meanes I was able to make; and
+<pb facs="tcp:179485:2"/>a patent for my place was ſent me for the which I have not paid one farthing, and the place is of ſo inconſiderable a benefit that it is worth but <hi>80. l. per annum</hi> when paid, and it coſt me every yeare I ſerved twice as much out of mine own eſtate in the way of an ordinary and frugall expence. That which gave me comfort was that I knew well that his Ma<g ref="char:EOLhyphen"/>jeſtie was a juſt and a prudent Prince.</p>
+            <p>In the time of the Attournyſhipps of Maſter Noye and the Lord Banks, they were pleaſed to make often uſe of me, &amp; many referrences concerning ſuits at Court upon that oc<g ref="char:EOLhyphen"/>caſion came to my knowledg, &amp; as I ſhall anſwer to God upon my laſt accompt this is a truth, that all or moſt of the referen<g ref="char:EOLhyphen"/>ces which I have ſeen in that kind (&amp; I have ſeen many) were to this effect, That his majeſty would be informed by his Coun<g ref="char:EOLhyphen"/>ſell if the ſuits preferred were agreable to the Lawes, and not inconvenient to his people, before he would paſſe them. (what could a juſt and pious Prince do more?) Gentle<g ref="char:EOLhyphen"/>men: you ſhall finde the Cauſe and the Curſe of the preſent great diſtemper in this diſcourſe, and God prſoper it in your hands, thoughts, and words, as the Caſe deſerves.</p>
+            <p>Hold to the Lawes, this great body recovers: forſake them, it will certainly periſh. I have reſolved to tender my ſelfe a Sacrifice for them as Cheerefully, and I hope (by Gods aſſiſtance) as conſtantly as old Eleazer did for the holy Lawes of his Nation.</p>
+            <closer>
+               <signed>
+                  <hi>Your well-wiſher</hi> DAVID JENKINS. Now Priſoner in the Tower.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:179485:2"/>
+            <head>Lex Terrae.</head>
+            <p>THE Law of this Land hath three grounds. Firſt <hi>Cuſtome.</hi> Secondly <hi>Judiciall Records.</hi> Thirdly <hi>Acts</hi> of <hi>Parliament.</hi> The two latter are but de<g ref="char:EOLhyphen"/>clarations of the <hi>Common-Lawe</hi> and <hi>Cuſtome</hi> of the Realme, touching <hi>Royall-Government.</hi> And this Law of <hi>Royall-Government,</hi> is a <hi>Law-Fundamentall.</hi>
+            </p>
+            <p>The Government of this Kingdome by a <hi>Royall Sove<g ref="char:EOLhyphen"/>raign,</hi> hath beene as ancient as Hiſtory is,
+<note place="margin">The kings pre<g ref="char:EOLhyphen"/>rogative is a principall part of the common Lawe. <hi>Com. Littl.</hi> 344.</note> or the memori<g ref="char:EOLhyphen"/>all of any time; what power this <hi>Soveraignty</hi> alwaies had and uſed in Warre and Peace in this Land, is the ſcope of this diſcourſe; That <hi>
+                  <g ref="char:V">Ʋ</g>ſage</hi> ſo practiſed makes therein a <hi>Fundamentall Lawe,</hi> and the <hi>Common-Lawe</hi> of the Land is common <hi>
+                  <g ref="char:V">Ʋ</g>ſage, Plowdens Commentaries.</hi> 195.</p>
+            <p>For the firſt of our kings ſithence the Norman Conqueſt, the firſt <hi>William,</hi> ſecond <hi>William, Henry</hi> the firſt, <hi>Stephen, Henry</hi> the ſecond and <hi>Richard</hi> the firſt, the Cuſtomes of the Realme, touching <hi>Royall Government,</hi> were never que<g ref="char:EOLhyphen"/>ſtioned: The ſaid Kings enjoyed them in a full meaſure. In king <hi>Johns</hi> time the Nobles and Commons of the Realm conceiving that the ancient Cuſtomes and Rights were vi<g ref="char:EOLhyphen"/>olated, and thereuppon preſſing the ſaid King to allowe them in the ſeventeenth of King <hi>John,</hi> the ſaid Liberties were by King <hi>John</hi> allowed, and by his ſonne <hi>Henry</hi> the thyrd, after in the ninth yeere of his Reigne confirmed, and are called <hi>Magna Charta,</hi> and <hi>Charta de Foreſta,</hi> declared foure hundred twenty two yeeres ſithhence by the ſaid Charters.</p>
+            <p>Now reſts to be conſidered, after the Subjects had ob<g ref="char:EOLhyphen"/>tained their Rights and Liberties, which were no other
+<pb n="2" facs="tcp:179485:3"/>then their ancient Cuſtomes (and the fundamentall Rights of the King as <hi>Soveraigne</hi> are no other.) How the Rights of <hi>Soveraignty</hi> continued in practiſe from <hi>Henry</hi> the thirds time untill this preſent Parliament of the third of Novem<g ref="char:EOLhyphen"/>ber 1640. for before <hi>Henry</hi> the thirds time, the <hi>Sove<g ref="char:EOLhyphen"/>raignty</hi> had a very full Power.</p>
+            <p>
+               <hi>Rex habet Poteſtatem &amp; juriſdictionem ſuper omnes qui in Regno ſuo ſunt,
+<note place="margin">
+                     <hi>Hen.</hi> 3.</note> ea quae ſuut juriſdictionis &amp; Pacis ad nul<g ref="char:EOLhyphen"/>lum pertinent niſi ad Regiam dignitatem,
+<note place="margin">
+                     <hi>Bracton temps H</hi>-3. <hi>lib.</hi> 4. <hi>cap.</hi> 24. <hi>Sect.</hi> 1.</note> habet etiam coerci<g ref="char:EOLhyphen"/>onem, ut Delinquentes puniat &amp; coerceat;</hi> This proves where the ſupreme power is.</p>
+            <p>A Delinquent is hee who adheres to the Kings Enemies <hi>Com. Sur. Littl.</hi> 261. This ſhewes who are Delinquents.</p>
+            <p>
+               <hi>Omnis ſub Rege, &amp; ipſe ſub nullo niſi tantum Deo, non eſt inferior ſibi Subjectis,
+<note place="margin">
+                     <hi>Sect.</hi> 5. <hi>Bract. ibid.</hi>
+                  </note> non parem habet in Regno ſuo.</hi> This ſhewes where the ſupreme power is.</p>
+            <p>
+               <hi>Rex non habet ſuperiorem niſi Deum, ſatis habet ad poe<g ref="char:EOLhyphen"/>nam quod Deum expectat ultorem.</hi>
+               <note place="margin">
+                  <hi>Brrcton lib.</hi> 5. <hi>tract.</hi> 3. <hi>de de<g ref="char:EOLhyphen"/>faltis Cap.</hi> 3. <hi>Bracton. Lib.</hi> 3. <hi>Cap,</hi> 7.</note> This ſhewes where the ſupreme power is.</p>
+            <p>Treaſons, Fellonies, and other Pleas of the Crowne, are <hi>propriae cauſae Regis.</hi> This ſhewes the ſame power.</p>
+            <p>By theſe paſſages it doth appeare what the Cuſtome was for the power of <hi>Soveraignty</hi> before that time; the po<g ref="char:EOLhyphen"/>wer of the Militia, of coyning of Money, of making Leagues with forreigne Princes, the power of Pardoning, of making of Officers, &amp;c. All Kings had them, the ſaid Powers huveno beginning.</p>
+            <p>
+               <hi>Sexto Ed.</hi> 1.
+<note place="margin">
+                  <hi>Edw.</hi> 1.</note> 
+               <hi>Com. ſur. Littl.</hi> 85. Liege Homage, every Subject owes to the King <hi>(viz)</hi> Faith <hi>de Membro, de vita, de terreno Honore,</hi> the forme of the Oath <hi>inter vetera ſta<g ref="char:EOLhyphen"/>tuta</hi> is ſet downe; We reade of no ſuch, or any Homage made to the two Houſes, but frequently of ſuch made by them.</p>
+            <p>It is declared by the Prelates, Earles, Barrons and Com<g ref="char:EOLhyphen"/>monalty of the Realme,
+<note place="margin">7. <hi>Ed.</hi> 1. <hi>ſtatuts at large fol</hi> 42.</note> that it belongeth to the King and his Royall Segniory, ſtraitly to defend force of Armour and
+<pb n="3" facs="tcp:179485:3"/>all other force againſt the Kings peace, at all times when it ſhall pleaſe him, and to puniſh them that ſhall doe contra<g ref="char:EOLhyphen"/>ry, according to the Lawe and Uſage of the Realme, and hereunto they are bound to ayde their Soveraigne Lord, at all ſeaſons when neede ſhall be. Here the ſupreame power in the time of Parliament, by both Houſes, is declared to be<g ref="char:EOLhyphen"/>long to the King.</p>
+            <p>At the beginning of every Parliament, all Armes are, or ought to be forbidden to be borne in London, Weſtminſter,
+<note place="margin">7 <hi>Ed.</hi> 2. 4 <hi>pars inſtit.</hi> 14.</note> or the Suburbs. This condemnes the multitudes coming to Weſtminſter, and the Guards of armed men.</p>
+            <p>All who held by Knights<g ref="char:punc">▪</g> ſervice,
+<note place="margin">1 <hi>Ed</hi> 2. <hi>de Mi<g ref="char:EOLunhyphen"/>litibus.</hi>
+               </note> and had twenty pounds <hi>per annum,</hi> were diſtraynable <hi>ad Arma militaria ſuſcipien<g ref="char:EOLhyphen"/>da,</hi> This agrees with the Records of ancient time, conti<g ref="char:EOLhyphen"/>nued conſtantly in all Kings times, but at this Parliament 3. November 1640. The King, out of his Grace, diſchar<g ref="char:EOLhyphen"/>ged this duty, which proves that the power of warre and preparation thereto, belongs not to the two houſes, but only to the King.</p>
+            <p>The two <hi>Spencers</hi> in <hi>Ed.</hi> 2. time, hatched (to cover their Treaſon) this damnable and damned opinion <hi>(viz.)</hi>
+               <note place="margin">
+                  <hi>Ed.</hi> 3. <hi>Calvins</hi> Caſe <hi>Cook l.</hi> 7. <hi>fol.</hi> 11</note> That Ligeance was more by reaſon of the Kings politique capa<g ref="char:EOLhyphen"/>city then of his perſon, upon which they inferred theſe e<g ref="char:EOLhyphen"/>xecrable and deteſtable conſequences. Firſt, if the King de<g ref="char:EOLhyphen"/>meaned not himſelfe by reaſon in the right of his Crowne, his Lieges are bound by Oath to remove him. Secondly, ſeeing the King could not be removed by ſuite of Lawe, it was to be done by force. Thirdly, that his Lieges be bound to governe in default of him.</p>
+            <p>All which tenets were condemned by two Parliaments, the one called <hi>exilium Hugenis</hi> in <hi>Ed.</hi> 2. time; the other by 1. <hi>Ed.</hi> 3. <hi>cap.</hi> 2. All which Articles againſt the <hi>Spencers</hi> are confirmed by this laſt Statute, the Articles are extant in the booke called <hi>vetera Statuta.</hi> The ſeparation of the Kings perſon from his power, is the principall Article condem<g ref="char:EOLhyphen"/>ned, and yet all theſe three damnable, deteſtable, and exe<g ref="char:EOLhyphen"/>crable
+<pb n="4" facs="tcp:179485:4"/>conſequents, are the grounds whereupon this preſent time relies, and the principles whereupon the two Houſes found their Cauſe.</p>
+            <p>The V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lleine of a Lord, in the preſence of the King, can<g ref="char:EOLhyphen"/>not be ſeized,
+<note place="margin">
+                  <hi>Plowdon Com.</hi> 322. 27. <hi>aſſ. pl.</hi> 49.</note> for the preſence of the King is a protection for that time to him: This ſhewes what reverence the Lawe gives to the perſon of a King.</p>
+            <p>
+               <hi>Reges,
+<note place="margin">33 <hi>Ed.</hi> 3. <hi>ayde de Roy.</hi> 103. <hi>Fitz.</hi>
+                  </note> ſacro oleo uncti ſunt capaces ſpiritualis juriſdictio<g ref="char:EOLhyphen"/>nis.</hi> But the two Houſes were never held capable of that power.</p>
+            <p>
+               <hi>Rex eſt perſona mixta cum ſacerdote,
+<note place="margin">10 <hi>H.</hi> 7.16.</note> habet Eccleſiaſti<g ref="char:EOLhyphen"/>cam &amp; ſpititualem juriſdictionem.</hi> This ſhewes the Kings power in Eccleſiaſticall Cauſes.</p>
+            <p>The Lands of the King are called in Law,
+<note place="margin">
+                  <hi>Com. Sur. Littl. Sect.</hi> 4.</note> 
+               <hi>patrimonium ſacrum.</hi> The Houſes ſhould not have medled with that ſa<g ref="char:EOLhyphen"/>cred Patrimony.</p>
+            <p>The King hath no Peere in his Land,
+<note place="margin">3 <hi>Ed.</hi> 3.19.</note> and cannot be judg<g ref="char:EOLhyphen"/>ed: <hi>ergo</hi> The two Houſes are not above him.</p>
+            <p>The Parliament of 15. <hi>Ed.</hi> 3. was repealed, for that it was againſt the Kings Lawes and Prerogative. 4. <hi>pars. inſtit. fol.</hi> 52. This ſhewes cleerely the Propoſitions ſent to Newcaſtle, ought not to have beene preſented to his Ma<g ref="char:EOLhyphen"/>jeſty, for that they are contrary to the Lawes and his Pre<g ref="char:EOLhyphen"/>rogative.</p>
+            <p>The Lords and Commons cannot aſſent in Parliament to any thing that tends to the diſinheriſon of the King and his Crowne,
+<note place="margin">4 <hi>pars Cookes inſtit. fol.</hi> 14.42 <hi>E</hi> 3. Parliament Roll: num: 7: <hi>Lex &amp; conſue<g ref="char:EOLhyphen"/>tudo Parlia<g ref="char:EOLhyphen"/>menti.</hi>
+               </note> to which they are ſworne. This condemnes the ſaid Propoſitions likewiſe.</p>
+            <p>To depoſe the King, to impriſon him untill he aſſent to certaine demands, A warre to alter the Religion eſtabli<g ref="char:EOLhyphen"/>ſhed by Lawe, or any other Lawe, or to remove Councel<g ref="char:EOLhyphen"/>lors,
+<note place="margin">25 <hi>Ed:</hi> 3. <hi>cap.</hi> 2</note> to hold a Caſtle or Fort againſt the King; are offences againſt that Lawe declared to be Treaſon by the reſolutions herein after mentioned, by that Law men are bound to ayd the King when warre is levied againſt him in his Realme. King, in this Statute muſt be intended in his naturall body
+<pb n="5" facs="tcp:179485:4"/>and perſon that only can die; for to compaſſe his death, and declare it by overt Act is declared there by Treaſon, To incounter in fight ſuch as come to ayde the King in his warres, is Treaſon.</p>
+            <p>Compaſſing of the Queenes death, of the Kings eldeſt ſonne, to coyne his money, to counterfet his Great-Seale, to levie warre againſt him, to adhere to ſuch as ſhall ſo do, are declared by that Act to be high Treaſon. This Statute cannot referre to the King in his politique capacitie, but to his naturall, which is inſeparable from the politique, for a body politique can have neither wiſe nor childe, nor levy warre,
+<note place="margin">21 <hi>Ed.</hi> 4 14.</note> nor doe any act but by the operation of the naturall body: A Corporation or body politique hath no ſoule or life, but is a fiction of the Lawe, and the Statute meant not fictitious perſons, but the body naturall, conjoyned with the publique, which are inſeparable.</p>
+            <p>The clauſe in that Act,
+<note place="margin">
+                  <hi>R.</hi> 2. 11 <hi>anno cap.</hi> 13 4 <hi>pars inſtit. fol.</hi> 42</note> that no man ſhould ſue for grace or pardon for any offence condemned, or forfeiture given by that Act, was repealed by a ſubſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quent Act in 21. <hi>R.</hi> 2, holden unreaſonable, without example and againſt the Law and cuſtome of the Parliament. This condemnes the pro<g ref="char:EOLhyphen"/>poſition for diſabling the King to Pardon. 4. <hi>pars inſtit. fol.</hi> 42. The Act of 11. <hi>R.</hi> 2. ſo much urged by the other ſide, was an Act to the which the King conſented, and ſo a per<g ref="char:EOLhyphen"/>fect Act: yet Note the Army then about the Town: Note that that Law is againſt private perſons, and by the 3. <hi>cap.</hi> thereof, the Treaſons there declared, are declared to be new Treaſons made by that Act, and not to be drawne to exam<g ref="char:EOLhyphen"/>ple, it was abrogated 21. <hi>R.</hi> 2. and revived by an uſurper 1. <hi>H.</hi> 4. to pleaſe the people, and by the tenth chap. thereof enacts that nothing ſhall bee Treaſon but what is declared by 25. <hi>Ed.</hi> 3,
+<note place="margin">16 <hi>R:</hi> 2: <hi>cap:</hi> 5.</note>
+            </p>
+            <p>The Regality of the Crowne of England is immediatly ſubject to God and to none other. Plaine words,
+<note place="margin">
+                  <hi>H.</hi> 4</note> ſhewing where the ſupreme power is.</p>
+            <p>The Commiſſion of Array is in force and no other Com<g ref="char:EOLhyphen"/>miſſion
+<pb n="6" facs="tcp:179485:5"/>
+               <hi>Rot. Parlm.</hi> 5. <hi>H.</hi> 4. <hi>numb.</hi> 24. an Act not printed, this Act was repealed by 4 &amp; 5. <hi>P. &amp; M. cap.</hi> 2. this re<g ref="char:EOLhyphen"/>pealed by the Act of 1. <hi>Jacobi</hi> and ſo it is of force at this day, for the repealing Statute is repealed, 4. <hi>pars inſtitn. fol.</hi> 51. &amp; 125. publiſhed ſit hence this Parliament, by the deſire of the houſe of Commons, their Order is printed in the laſt leafe of the Commentaries upon <hi>Magna Charta.</hi>
+            </p>
+            <p>Syr <hi>Edward Cooke,</hi> by their party is holden for the Ora<g ref="char:EOLhyphen"/>cle of the Law,
+<note place="margin">A booke alow<g ref="char:EOLhyphen"/>ed by Syr <hi>Nat Brent,</hi> called the reaſon of the war: <hi>fol</hi> 95</note> who wrote the ſaid fourth part, in a calme and quiet time, and I may ſay, when there was no neede to defend the authority of the Commiſſion of Array.</p>
+            <p>For that objection, That that Commiſſion leaves po<g ref="char:EOLhyphen"/>wer to the Commiſſioners to taxe men <hi>ſecundum faculta<g ref="char:EOLhyphen"/>tes,</hi> and ſo make all mens eſtates Arbitrary: the anſwere is That in levying of publique aydes upon mens goods and e<g ref="char:EOLhyphen"/>ſtates, which are variable, and probably cannot be certain<g ref="char:EOLhyphen"/>ly knowne by any but the owners, it is impoſſible to avoide diſcretion in the aſſeſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments, for ſo it ever was, and ever will be. By this appeares that the votes of the two houſes againſt the Commiſſion of Array, were againſt the Law.</p>
+            <p>The death of the King diſſolves the Parliament,
+<note place="margin">
+                  <hi>H.</hi> 5:</note> if Kings ſhould refer to the politique capacity it would continue af<g ref="char:EOLhyphen"/>ter his death, 4. <hi>pars Inſt.</hi> 46. which proves that the King connot be ſaid to be there when he is abſent, as now he is: there is no <hi>interregnum</hi> in the kingdome the diſſolution of the Parliament by his death ſhewes that the beginning and end thereof refers to the naturall perſon of the King and therefore he may lawfully refuſe the Propoſitions
+<note place="margin">2 <hi>H.</hi> 5. 4 <hi>pars inſtit.</hi> 46</note>
+            </p>
+            <p>2. <hi>H.</hi> 5. <hi>Chap.</hi> 6. to the King onely it belongs to make Leagues with forreigne Princes; This ſhewes where the ſupreame power is.</p>
+            <p>8.
+<note place="margin">
+                  <hi>H.</hi> 6.</note> 
+               <hi>H.</hi> 6. <hi>numb.</hi> 57. <hi>Rott. Parl. Cookes</hi> 4. <hi>pars inſtit.</hi> 25. No priviledg of Parliamenr. is grantable for Treaſon Fe<g ref="char:EOLhyphen"/>lony or Breach of the peace; if not to any one member, nnot to two, not to ten, not to the Major part, 19. <hi>H.</hi> 6.62. The law is the inherritanc of the King and his peo<g ref="char:EOLhyphen"/>ple
+<pb n="7" facs="tcp:179485:5"/>by which they are ruled, King and people; And the people are by the law bound to ayde the king, And the King hath an inheritance to hold Parliaments and in the ayds granted by the Commonalty. If the major part of a Parliament commit Traſon they muſt not bee Judges of it, for no man or body, ean be Judge in his own cauſe, and aſwell as ten or any number may commit treaſon, the greater number may aſwell.</p>
+            <p>The King by his letters pattents may conſtitute a Coun<g ref="char:EOLhyphen"/>ty palatine and grant Regall rights,
+<note place="margin">32. <hi>H.</hi> 6.13. <hi>Plowd.</hi> 334.</note> this ſhewes where the ſupreme power is.</p>
+            <p>17. <hi>Ed.</hi> 4. <hi>rot. parl. numb.</hi> 39.
+<note place="margin">
+                  <hi>Ed.</hi> 4.</note> No priviledge of Parli<g ref="char:EOLhyphen"/>ament is grantable for Treaſon, Fellony or Breach of the peace, if not for one, not for two or more, or a major part.</p>
+            <p>The ſame perſons muſt not be Judge and party. A cor<g ref="char:EOLhyphen"/>porat body can commit no treaſon,
+<note place="margin">
+                  <hi>Calvins</hi> Caſe 7 <hi>pars. fol.</hi> 11.12.</note> nor can treaſon be committed againſt a corporate body, 21. E. 4, 13. and 14. but the perſons of the men who make that body may commit treaſon, and commit it againſt the naturall perſon of him who to ſome purpoſes is a body corporate, but <hi>quatenus corporate</hi> no treaſon can be committed by or againſt ſuch a body; that body hath no ſoul, no life, and ſubſiſts only by the fiction of the Law, and for that rea<g ref="char:EOLhyphen"/>ſon the Law doth conclude as aforeſaid; therefore the ſtature of 25. E. 3, muſt be intended of the Kings naturall perſon conjoyned with the politique which are inſepa<g ref="char:EOLhyphen"/>rable and the Kings naturall perſon being at Holmby,
+<note place="margin">
+                  <hi>Plow. com.</hi> 213.</note> his politique is there alſo, and not at Weſtminſter; for the politique and naturall make one body indiviſible</p>
+            <p>If all the people of England ſhould breake the league made with a forreigne Prince,
+<note place="margin">19 <hi>Ed-</hi> 4.6.</note> without the Kings con<g ref="char:EOLhyphen"/>ſent, the league holds and is not broken; and therefore the repreſentative body is inferior to his Majeſties.</p>
+            <p>The King may erect a Court of Common pleas in what part of the kingdome he pleaſeth by his letters pattents;
+<note place="margin">22 <hi>Ed.</hi> 4. <hi>Fitz. juriſdiction laſt placite.</hi>
+               </note> can the two howſes do the like?
+<pb n="8" facs="tcp:179485:6"/>1. <hi>Ed.</hi> 5. <hi>fol.</hi> 8.
+<note place="margin">
+                  <hi>Ed.</hi> 5. 4 <hi>Ed.</hi> 4.25. 5 <hi>Ed.</hi> 4 29.</note> It cannot be ſaid that the King doth wrong, declared by all the Judges and Serj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents at law then there.</p>
+            <p>The reaſon is, nothing can be done in this Common<g ref="char:EOLhyphen"/>wealth by the Kings grant or any other act of his, as to the ſubjects perſons, goods, lands or liberties, but muſt be ac<g ref="char:EOLhyphen"/>cording to eſtabliſhed lawes, which the Judges are ſworne to obſerve and deliver between the King and his people impartially to rich and poore, high and low; and there<g ref="char:EOLhyphen"/>fore the Juſtices and the Miniſters of Juſtice are to be q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtioned and puniſhed if the Lawes be violated: And no reflection to be made on the King. All Counſellers and Judges for a yeare and three months nntill the tumults began this Parliament were all left to the ordinary courſe of Juſtice, what hath beene done ſithence is notorious.</p>
+            <p>For great Cauſes and conſiderations an act of Parlia<g ref="char:EOLhyphen"/>ment was made for the ſurety of the ſaid Kings perſon;
+<note place="margin">
+                  <hi>R.</hi> 3. 1 <hi>R.</hi> 3 <hi>cap.</hi> 15.</note> if a Parliament were ſo tender of King <hi>Rich.</hi> the 3. the howſes have greater reaſon to care for the preſervation of his Majeſtie.</p>
+            <p>The Subjects are bound by their allegiance to ſerve the King for the time being againſt every Rebellion,
+<note place="margin">
+                  <hi>H.</hi> 7; 11 <hi>H.</hi> 7. <hi>cap.</hi> 1.</note> power and might, reared againſt him within this land, that it is againſt all lawes, reaſon and good conſcience, if the King ſhould happen to be vanquiſhed, that for the ſaid deede and true duty and alligeance they ſhould ſuffer in any thing, it is ordeined they ſhould not: and all acts of pro<g ref="char:EOLhyphen"/>ceſſe of law heereafter to be made to the contrary are to be void, This law is to be underſtood of the naturall per<g ref="char:EOLhyphen"/>ſon of the King, for his politique capaſity cannot be van<g ref="char:EOLhyphen"/>quiſhed; nor war reared againſt it.</p>
+            <p>Relapſers are to have no benefit of this Act.</p>
+            <p>It is no ſtatute,
+<note place="margin">12 <hi>H.</hi> 7.20. <hi>H.</hi> 8. 24 <hi>H.</hi> 8. <hi>cap.</hi> 12. 25 <hi>H.</hi> 8. <hi>cap.</hi> 21</note> if the King aſſent not to it, and he may diſaſſent, this proves the negative voice.</p>
+            <p>The King hath full power in all cauſes to doe juſtice to all men this is affirmed of the King, and not of the two Houſes.</p>
+            <pb n="9" facs="tcp:179485:6"/>
+            <p>The commons in Parliament acknowledg no ſuperior to the King under God, the houſe of Commons confeſſe the king to be above the repreſentative body of the Realme.</p>
+            <p>Of good right and equity the whole and ſole power of pardoning treaſons, fellonies &amp;c. belong to the King,
+<note place="margin">27 <hi>H.</hi> 8. <hi>cap</hi> 24. <hi>Note.</hi>
+               </note> as alſo to make all Juſtices of Oyer and Terminer, Judges, Juſtices of the peace &amp;c. This law condemns the pra<g ref="char:EOLhyphen"/>ctiſe of both houſes at this time.</p>
+            <p>The Kings royall aſſent to any act of Parliament ſigned with his hand expreſſed in his letters Patents under the great Seale,
+<note place="margin">33. <hi>H.</hi> 8 <hi>cap.</hi> 21</note> and declared to the Lords and Commons ſhall be as effectuall as if hee aſſented in his owne perſon; a vaine act if the King be virtually in the houſes.</p>
+            <p>The King is the head of the Parliament,
+<note place="margin">
+                  <hi>Dier</hi> 38. <hi>H.</hi> 8. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 59.60.</note> the Lords the principall members of the body, the Commons the in<g ref="char:EOLhyphen"/>ferior members, and ſo the body is compoſed, therefore there is no more Parliament without a King, then there is a body without a head.</p>
+            <p>There is a corporation by the Common law,
+<note place="margin">14 <hi>H.</hi> 8. <hi>fol.</hi> 3.</note> as the King, Lords, and Commons, are a corporation in Parlia<g ref="char:EOLhyphen"/>ment, and therefore they are no body with out the King.</p>
+            <p>The death of the King diſchargeth all mainpriſe to ap<g ref="char:EOLhyphen"/>peare in any Court or to keepe the peace.
+<note place="margin">24 <hi>Ed.</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>48. 1 <hi>Ed.</hi> 4.2. 2 <hi>H.</hi> 4.8. 1 <hi>H.</hi> 7.10. 1 <hi>Ed.</hi> 5.1.</note>
+            </p>
+            <p>The death of the King diſcontinues all pleas by the com<g ref="char:EOLhyphen"/>mon law which agreeth not with the virtuall power in<g ref="char:EOLhyphen"/>ſiſted upon now.</p>
+            <p>Writs are diſcontinued by the death of the King;
+<note place="margin">
+                  <hi>Ed.</hi> 6. 1 <hi>Ed.</hi> 6. <hi>cap.</hi> 7.</note> Pa<g ref="char:EOLhyphen"/>tents of Judges, Commiſſion for Juſtice of the peace. Sheriffs Eſcheators, determined by his death; where is the virtuall power?</p>
+            <p>All authority and juriſdictions ſpirituall and temporall is derived from the King; therefore none from the houſes.
+<note place="margin">1 <hi>Ed.</hi> 6. <hi>cap.</hi> 2.</note>
+            </p>
+            <p>His Majeſties ſubjects,
+<note place="margin">2.3 <hi>Ed.</hi> 6. <hi>cap.</hi> 2.11 <hi>H.</hi> 7. <hi>cap.</hi> 1. <hi>Calvins</hi> Caſe. <hi>Sa. pars Cooke.</hi>
+               </note> according to their bounden duties, ought to ſerve the King in his warres, of this ſide or beyond the ſeas; beyond the ſeas is to be underſtood for wages; This proves the power of warres and prepara<g ref="char:EOLhyphen"/>tion
+<pb n="10" facs="tcp:179485:7"/>for warre to be in the King.</p>
+            <p>It is moſt neceſſary <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth for common policy and duty of the Subjects,
+<note place="margin">5.6 <hi>Ed. cap.</hi> 11.</note> to reſtraine all manner of ſhamefull ſlaunders againſt their King, which when they be heard, cannot but be odible to his true and loving Subjects, upon whom de<g ref="char:EOLhyphen"/>pendeth the whole unity and univerſall weale of the realm. This condemnes their continuing of the weekly pamphlets who have beeue ſo foule mouthed againſt his Majeſty.</p>
+            <p>The puniſhment of all offenders againſt the Lawes,
+<note place="margin">Q. Mary.</note> be<g ref="char:EOLhyphen"/>longs to the King, and all juriſdictions doe, and of right ought to belong to the King.
+<note place="margin">1 <hi>Mar. Pl</hi> 2.6.2</note> This leaves all to his Majeſty.</p>
+            <p>All Commiſſions to levy men for the warre,
+<note place="margin">4.5 <hi>P. &amp; M. c.</hi> 3 <hi>Q. Eliz.</hi> 10 <hi>Eliz. Pl.</hi> 315</note> are awar<g ref="char:EOLhyphen"/>ded by the King. The power of warre only belongs to the King.</p>
+            <p>It belongs to the King to defend his people, and to pro<g ref="char:EOLhyphen"/>vide Armes and force. No ſpeech of the two houſes.</p>
+            <p>
+               <hi>Roy ad ſole government de ſes ſubjects. Corps naturall le Roy &amp; politique ſont un corps,</hi>
+               <note place="margin">
+                  <hi>Plow.</hi> 234.242 213. <hi>Calvins</hi> Caſe 7. <hi>pars fol.</hi> 12. <hi>Plow. com.</hi> 213.</note> that is, The King hath the ſole government of his Subjects, the body politique and the naturall body of the King make one body, and not di<g ref="char:EOLhyphen"/>vers, and are inſeparable and indiviſible.</p>
+            <p>The body naturall and politique make one body, and are not to be ſevered:
+<note place="margin">
+                  <hi>Plow.</hi> 934. 243 213. <hi>Calvins</hi> Caſe 7 <hi>pars fo.</hi> 12.</note> Ligeance is due to the naturall body, and is due by nature; Gods Law, and mans law, cannot be forfeited nor renounced by any meanes, it is inſeparable from the perſon.</p>
+            <p>Every Member of the Houſe of Commons,
+<note place="margin">1 <hi>Eliz. cap.</hi> 1. 5 <hi>Eliz. cap.</hi> 1. <hi>Cawdries</hi> Caſe 5 <hi>pars fol.</hi> 1.</note> at every Par<g ref="char:EOLhyphen"/>liament, takes a corporall Oath, That the King is the ſu<g ref="char:EOLhyphen"/>preme and only Governour, in all Cauſes, in all his Domi<g ref="char:EOLhyphen"/>nions, otherwiſe he is no member of that Houſe; the words of the Law are, In all Cauſes, over all perſons.</p>
+            <p>The ſaid Act of 1. <hi>Eliz.</hi> is but declarative of the ancient Lawe,
+<note place="margin">43 <hi>Eliz.</hi> 3 <hi>pars inſt it. fo.</hi> 12.</note> 
+               <hi>Cawdries</hi> Caſe <hi>ibid.</hi>
+            </p>
+            <p>The Earle of Eſſex, and others, aſſembled multitudes of men to remove Councellors, adjudged Treaſon by all the Judges of England.</p>
+            <pb n="11" facs="tcp:179485:7" rendition="simple:additions"/>
+            <p>To depoſe the King or take him by force,
+<note place="margin">39 <hi>Eliz. Hil.</hi> 1 <hi>Jacobi ibid.</hi>
+               </note> to impriſon him untill he hath yeelded to certain demands, adjudged Treaſon, and adjudged accordingly in the Lord <hi>Cobhams</hi> Caſe.</p>
+            <p>Ariſing to alter Religion eſtabliſhed, or any Lawe,
+<note place="margin">39 <hi>Eli. Bradſ.</hi> Caſe <hi>fol.</hi> 9 <hi>&amp;</hi> 10. By all the Judges of Eng<g ref="char:EOLhyphen"/>land, <hi>ibid.</hi> 10 <hi>Eliz. Plow:</hi> 316,</note> is Treaſon; ſo for taking of the Kings Caſtles, Forts, Ports or ſhipping. <hi>Brooke</hi> treaſon 24.3. &amp; 4. <hi>Philip</hi> and <hi>Mary, Dy<g ref="char:EOLhyphen"/>er, Staffords</hi> Caſe concerning Scarborough.</p>
+            <p>The Lawe makes not the ſervant greater then the Maſter, nor the ſubject greater then the King, for that were to ſub<g ref="char:EOLhyphen"/>vert Order and Meaſure.</p>
+            <p>The Lawe is not knowne but by Uſage,
+<note place="margin">10 <hi>Eliz. Plow.</hi> 319.</note> and Uſage proves the Law, and how Uſage hath beene is notoriouſly knowne</p>
+            <p>The King is our only Rightfull and Lawfull Liege Lord and Soveraigne,
+<note place="margin">
+                  <hi>K. James</hi> 1 <hi>Jaco. cap.</hi> 1. 9 <hi>Ed:</hi> 4. <hi>fol.</hi> 8.</note> Wee doe upon the knees of our hearts ag<g ref="char:EOLhyphen"/>nize conſtant Faith, Loyalty and Obedience to the King and his Royall progeny, in this high Court of Parliament, where all the body of the Realme is eyther in perſon or by repreſentation: We doe acknowledge that the true and ſincere Religion of the Church, is continued and eſtabli<g ref="char:EOLhyphen"/>ſhed by the King, And do recognize, as we are bound by the Law of God and Man, the Realm of England and Imperiall Crowne thereof doth belong to him by inhaerent byrth<g ref="char:EOLhyphen"/>right, and lawfull and undoubted ſucceſſion, and ſubmit our ſelves and our poſterities for ever, untill the laſt drop of our blood be ſpent, to his rule; and beſeech the King to ac<g ref="char:EOLhyphen"/>cept the ſame as the firſt fruits of our Loyalty and Faith to his Majeſty and his Poſterity for ever, and for that this Act is not compleate nor perfect without his Majeſties aſſent, the ſame is humbly deſired. This proves that the Houſes are not above the King; that Kings have not their titles to the Crowne by the two Houſes, but by inhaerent byrth-right, and that there can be no Statute without his expreſſe aſſent, and deſtroyes the chymera of the Kings virtuall being in the Houſes.</p>
+            <pb n="12" facs="tcp:179485:8"/>
+            <p>To promiſe obedience to the Pope,
+<note place="margin">3 <hi>Jac. cap"</hi> 4: 23 <hi>Eliz cap:</hi> 1.</note> or any other State, Prince or Potentate, other then the King his Heires and Suc<g ref="char:EOLhyphen"/>ceſſors, is Treaſon; And therfore thoſe perſons who call the Houſes the Eſtates offend this Lawe.</p>
+            <p>Such Bills as his Majeſty is bound in Conſcience and Ju<g ref="char:EOLhyphen"/>ſtice to paſſe,
+<note place="margin">
+                  <hi>K. Charles</hi> Collection of Ordinances <hi>fo.</hi> 727. 1 <hi>pgrs. ibid. fol.</hi> 728.</note> are no Lawe without his aſſent.</p>
+            <p>To deſigne the ruine of the Kings perſon, or of Monarchy is a monſtrous and injurious charge.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>bi Lex non diſtinguit, non eſt diſtinguendum,</hi>
+               <note place="margin">
+                  <hi>ibid. fol.</hi> 865.</note> all the a<g ref="char:EOLhyphen"/>foreſaid Acts and Lawes doe evidently prove the Militia to belong to the King: that the King is not virtually in the two houſes: that the King is not conſiderable ſeparately in relation to his politique capacity: that the King is not a perſon truſted with a power, but that it is his inherent byrth-right, from God, nature and lawe, and that he hath not his power from the people: Theſe Lawes have none of thoſe diſtinctions of naturall and politique, <hi>abſtractum &amp; concretum,</hi> power and perſon, in <hi>Caeſars</hi> time this Iſland had Kings, and ever ſince, which is almoſt 17 hundred yeeres agoe.</p>
+            <p>No King can be named, in any time, made in this king<g ref="char:EOLhyphen"/>dome by the people: A Parliament never made King, for they were Kings before, the Parliaments are ſummoned by the Kings Writts, which for Knights Citizens and Bur<g ref="char:EOLhyphen"/>geſſes begins thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Rex vic. Wilts. Saltem. Quia Nos de aviſamento &amp; aſ<g ref="char:EOLhyphen"/>ſenſu Conſilij nri. pro quibuſd. arduis &amp; urgentibus negotiis nos ſtatum &amp; defenſionem Regni nri. Angl. &amp; Eccleſiae An<g ref="char:EOLhyphen"/>glicanae concernentibus quoddam Parliamentum nrum. apud B. teneri ordinavimus &amp; ibid. cum Praelatis magnatibus &amp; proceribus dicti Regni nri. Colloquium habere &amp; tractatum, ipſi vicecomiti pre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipimus firmiter injungendo quod facta Pro clamatione in proximo Comitatu tuo poſt recepsionem ejuſd. brevis, duos Milites gladiis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inctos, &amp;c. eligi facias ad faci<g ref="char:EOLhyphen"/>endum &amp; conſentiendum hiis quae tun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ibidem de Communi Concilio nro. Angliae faventi Deo contigerit ordinari ſuper
+<pb n="13" facs="tcp:179485:8" rendition="simple:additions"/>negotiis antedictis ita quod pro defectu poteſtatis hujuſmodi ſen propter improvidam electionem Milium, Civium, &amp; Burgenſium pred. dicta negotia nra. infecta non remanerent.</hi>
+            </p>
+            <p>The King is <hi>Principium, Caput &amp; finis Parliamenti,</hi>
+               <note place="margin">4 <hi>pars inſtit. fol.</hi> 3 &amp; 4.</note> the body makes not the head, nor that which is <hi>poſterior</hi> that which is <hi>prior: Concilium non eſt Preceptum, Conciliarij non ſunt Praeceptores,</hi> for Councell to compell a conſent, hath not beene heard of to this time in any age, and the houſe of Commons, by the Writt, are not called ad <hi>Conci<g ref="char:EOLhyphen"/>lium;</hi> the Writts to the twelve Judges, Kings Councell, twelve Maſters of the Chancery are <hi>Concilium impenſuri,</hi> and ſo of the Peeres. The Writts for the Cominalty, <hi>Ad faciendum &amp; conſentiendum.</hi> Which ſhewes what power the repreſentative body hath, they have not power to give an oath, neither doe they claime it.</p>
+            <p>The King at all times, when there is no Parliament,
+<note place="margin">The Oath of the Juſtices 18 of <hi>Ed.</hi> 3. among Statutes of that yeere.</note> &amp; in Parliament is aſſiſted with the advice of the Judges of the Lawe, twelve to uumber, for England at leaſt hath two Sergeants when feweſt: an Attorney and Sollicitor, twelve Maſters of the Chancery, his Councell of State, conſiſting of ſome great Prelates and other great Perſona<g ref="char:EOLhyphen"/>ges, verſed in State affaires, when they are feweſt to the number of twelve. All theſe perſons are alwaies of great ſubſtance, which is not preſerved but by the keeping of the Lawe, The Prelates verſed in divine Lawe, the other Gran<g ref="char:EOLhyphen"/>dees in affaires of State and managery of Government, The Judges, Kings Sergeants, Attorney, Sollicitor, and Maſters of the Chancery verſed in the Lawe and Cuſtomes of the Realme: All ſworne to ſerve the King and his people juſtly and truly, the King is alſo ſworne to obſerve the Lawes, and the Judges have in their Oath a clauſe, That they ſhall doe common right to all the Kings people, ac<g ref="char:EOLhyphen"/>cording to the eſtabliſhed Lawes, notwithſtanding any command of the King to the contrary, under the Great Seale or otherwiſe, The people are ſafe by the Lawes in
+<pb n="14" facs="tcp:179485:9"/>force without any new: The Lawe finding the King of this Realme aſſiſted with ſo many great men of Conſci<g ref="char:EOLhyphen"/>ence, Honour and skill in the rule of Common-wealth, knowledge of the Lawes, and bound by the high and holy bond of an Oath upon the Evangeliſts, ſettles among o<g ref="char:EOLhyphen"/>ther powers upon the King, a power to refuſe any Bill a<g ref="char:EOLhyphen"/>greed upon by both Houſes, and power to pardon all offen<g ref="char:EOLhyphen"/>ces, to paſſe any Graunts in his Minoritie, (there are many great perſons living hold many a thouſand pound a yeere by Patents from <hi>Edward</hi> the ſixth, paſſed when hee was but ten yeeres of age) not to bee bound to any Lawe to his prejudice, whereby he doth not binde himſelfe, power of warre and peace, coyning of Money, making all Officers, &amp;c. The Lawe, for the reaſons aforeſaid, hath approved theſe powers to be unqueſtionable in the King, and all kings have enjoyed them till 3. <hi>Nov.</hi> 1640.</p>
+            <p>It will bee ſaid notwithſtanding all this ſence about the Lawes, the Lawes have beene violated, and therefore the ſaid powers muſt not hold, the two Houſes will remedy this.</p>
+            <p>The anſwere to this is evident: There is no time paſt, nor time preſent, nor will there bee time to come, ſo long as men mannage the Lawe, but the Lawes will bee broken more or leſſe, as appeares by the ſtory of every age. All the pretended violations of this time were remedied by Acts to which the King conſented before his departure 10. <hi>Jan.</hi> 1641<g ref="char:punc">▪</g> being then driven away by Tumults. And the Houſes for a yeere and almoſt three Moneths: From 3. <hi>Nov.</hi> 1640. to 10 <hi>Jan.</hi> 1641. as aforeſaid, being a yeere and almoſt three moneths, had time and liberty to queſti<g ref="char:EOLhyphen"/>on all thoſe perſons who were eyther cauſes or inſtruments of the violation of any of the Lawes.</p>
+            <p>Examine how both Houſes remedied them in former times. Firſt, touching Religion, What hath beene done this way? Both Houſes in <hi>Henry</hi> the eights time ten<g ref="char:EOLhyphen"/>dred
+<pb n="15" facs="tcp:179485:9"/>to him a Bill to bee paſſed called commonly the Bill of the ſix Articles, this was conceived by them to bee a juſt and a neceſſary Bill: had not <hi>Henry</hi> the eighth done well to have refuſed the paſſing of this bill? both houſes tendred a bill to him to take the reading of the Scriptures from moſt of the laity: had not King <hi>Henry</hi> the eight deſerved much prayſe to reject this bill? In Queene <hi>Maryes</hi> time both houſes exhibited a bill to her to intro<g ref="char:EOLhyphen"/>duce the Popes power and the Roman religion; had not Queeene <hi>Mary</hi> don well to have refuſed this bill? Many ſuch inſtances may be given. The two Houſes now at Weſtminſtar I am ſure will not deny but the refuſall of ſuch bills had beene juſt, the King being aſſiſted as aforeſaid, and why not ſo in theſe times?</p>
+            <p>For the Civill Govrnment what a Bill did both houſes preſent to <hi>Richard</hi> the third to make good his title to the Crowne; had it not beene great honour to him to have rejected it? what bills were exhibited to <hi>Henry</hi> the eighth by both houſes for baſtardizing of his daughter <hi>Elizabeth,</hi> a Queene of renowned memory, to ſettle the Crowne of this Relme for default of iſſue of his body upon ſuch perſons as he ſhould declare by his letters Pa<g ref="char:EOLhyphen"/>tents or his laſt will, and many more of the like? had not this refuſall of paſſing ſuch bills magnified his vertue and rendred him to poſterity in a different Character form what he now hath?</p>
+            <p>And by the experience of all times and the conſide<g ref="char:EOLhyphen"/>ration of human frailty this concluſion is manifeſtly de<g ref="char:EOLhyphen"/>duced, that it is not poſſible to keepe men at all times (be they the houſes, or the King and his councell) but there will be ſometimes ſome deviation from the lawes, and therefore the conſtant and certain powers fixed by the ancient law muſt not be made voide, and the Kings Miniſters<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Laws do puniſh where the Law is tranſ<g ref="char:EOLhyphen"/>greſſed, and they only ought to ſuffer for the ſame.</p>
+            <pb n="16" facs="tcp:179485:10"/>
+            <p>In this Parliament the houſes exhibited a bill to take away the ſuffrages of the Biſhops in the upper houſe of Parliament, and have ſithence agreed there ſhall be no more Biſhops at all, might not the King if he had ſo pleaſed have anſwered this bill with <hi>Le Roy s'aviſera,</hi> or <hi>ne veult:</hi> it was againſt <hi>Magna Charta; Articuli Cleri</hi> and many other acts of Parliament. And might have farther given theſe reaſons if it had ſo pleaſed him for the ſame: firſt that this Bill deſtroyes the writt whereby they are made two houſes of Parliament the King in the writt to the Lords being <hi>Cum praelatis Colloquium habere;</hi> ſecondly they have bene in all Parliaments ſince we had any, and voted, but in ſuch wherein they themſelves were concerned: And there have bene Biſhops here ſithence we were Chriſtians, and the fundamentall law of the kingdome approves of them: if any of them were con<g ref="char:EOLhyphen"/>ceived offenſive; they were left to juſtice, and his Ma<g ref="char:EOLhyphen"/>jeſtie would put in in-offenſive men in their places: but ſithence his Majeſtie hath paſſed the Bill for taking away their votes in Parliament, it is a law that binds us ſo farr.</p>
+            <p>Upon the whole matter the law hath notably deter<g ref="char:EOLhyphen"/>mined that Bills agreed by both houſes, pretended to be for the publique good, are to be j<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dged by the King, for in all Kings reignes Bills have been preferred by both houſes, which allwayes are pretended to be for the pub<g ref="char:EOLhyphen"/>lique good, and many times are not, and were rejected with <hi>Roy s'aviſera</hi> or <hi>Roy ne veult.</hi>
+            </p>
+            <p>This Parliament begunne the third of <hi>November</hi> 1640 before that time in all the Kings reigne no armed power did force any of the people to do any thing againſt the law: what was done, was by his Judges, officers Referees and Miniſters from that time untill the tenth of <hi>January</hi> 1641 (when the King went from London to avoyd the danger of frequent tumults, being a yeare and three months, Privy Councellors and all his Juſtices and
+<pb n="17" facs="tcp:179485:10"/>miniſters were left to the Juſtice of the law, there wan<g ref="char:EOLhyphen"/>ted no time to puniſh puniſhable men.</p>
+            <p>The Sphaere of the houſe of commons is to repreſent the grievances of the Contrey, to grant aydes for the King upon all fit occaſions extraordinary, to aſſent to the mak<g ref="char:EOLhyphen"/>ing or abrogating of lawes: The Orb of the houſe of Lords to Reforme eronious judgments given in the kings Bench, to redreſſe the delayes of Courts of Juſtice, to receive all petitions, to adviſe his Majeſtie with their councell, to have their votes in making or abrogating of Lawes, and to propoſe for the common good, what they conceive meete,</p>
+            <p>
+               <hi>Lex non cogit ad impoſibilia,</hi> ſubjects are not to ex<g ref="char:EOLhyphen"/>pect from Kings impoſſible things, ſo many Judges, Councellors, Sheriffes, Juſtices of the peace, Commiſſio<g ref="char:EOLhyphen"/>ners, Miniſters of State, that the King ſhould over looke them all cannot be, it is impoſible.</p>
+            <p>The King is virtually in his ordinary Courts of Juſtice; ſo long as they continue his Courts: their charge is to adminiſter the lawes in being, and not to delay, deferre or ſell juſtice for any commandment of the King. Wee have Lawes enough <hi>inſtrumenta boni ſaeculi ſunt boni viri,</hi> good miniſters, as judges and officers are many times wanting, the houſes propoſe new Lawes, or abrogation of the old; both induce novelty: the law for the reaſons aforeſaid, makes the King the only judge, who is aſſiſted therein by a great number of grave, learned and prudent men, as aforeſaid.</p>
+            <p>For the conſiderations aforeſaid the Kings party ad<g ref="char:EOLhyphen"/>hered to him, the law of the Land is their byrth-right, their guide, no offence is committed where that it is not vi<g ref="char:EOLhyphen"/>olated: they found the commiſſion of Array warranted by the law; they found the King in this Parliament to have quitted the Ship money, Knighthood-money, ſeven Courts of Juſtice, conſented to a trienniall Parliament, ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led
+<pb n="18" facs="tcp:179485:11"/>the Foreſt bounds, tooke a way the Clerke of the Market of the houſhold, truſted the houſe with the Navie, paſſed an act not to diſſolve this Parliament without the houſes aſſent; no people in the world ſo free if they could have beene content with Lawes oathes and reaſon, and no<g ref="char:EOLhyphen"/>thing more could or can be deviſed to ſecure us, neither hath beene in any time.</p>
+            <p>Notwithſtanding all this we found the King driven from London by frequent tumults, that two thirds and more of the Lords had diſſerted that houſe, for the ſame cauſe, and the greater part of the houſe of Commons left that houſe alſo for the ſame reaſon: new men choſen in their places, againſt law, by the pretended warrant of a counterfet Seale; &amp; in the Kings name againſt his conſent, levying warre againſt him, and ſeizing his Ports, Forts, Magazines and Revenue, and converting them to his de<g ref="char:EOLhyphen"/>ſtruction and the ſubverſion of the law and land, laying taxes on the people never hard of before in this Land; de<g ref="char:EOLhyphen"/>viſed new oathes to oppoſe forces rayſed by the King, not to adhaere to him, but to them in this warre which they call the Negative Oath, and the Vow and Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p>By ſeverall wayes never uſed in this kingdome they have raiſed monies to foment this warte, and eſpecially to inrich ſome among them, namely firſt Exciſe, ſecondly Contributions, thirdly Sequeſtrations, fourthly Fift Parts, fiftly Twentieth Parts, ſixtly Meale-mony, ſeventhly Sale of Plundered goods, eightly Loanes, ninthly Benevolences, tenthly Collections upon their Faſt-dayes, eleventhly new Inpoſitions upon Marchandizes, twelvethly Guards maintained upon the charge of private men, thirteenthly Fifty Subſidies at one time, fourtenthly Compoſitions with ſuch as they call delinquents, fiftenthly Sale of Bi<g ref="char:EOLhyphen"/>ſhops lands &amp;c-</p>
+            <p>From the Kings party meanes of ſuſiſtance are taken;
+<pb n="19" facs="tcp:179485:11"/>before any indictment their Lands ſeiſed,
+<note place="margin">1 <hi>R.</hi> 3. <hi>cap.</hi> 3. <hi>Bract li.</hi> 3. <hi>c.</hi> 8. <hi>Stanford.</hi> 192. <hi>Sir Ger. Fleet<g ref="char:EOLhyphen"/>woods</hi> Caſe. 8. <hi>pars Cook</hi> 7. <hi>H.</hi> 4. <hi>laſte leafe.</hi>
+               </note> their goods taken, the law allows a Traytor or Fellon attainted, <hi>Ne<g ref="char:EOLhyphen"/>ceſſaria ſibi &amp; familiae ſnae in victu &amp; veſtitu</hi> where is the covenant? where is the petition of right? where is the liberty of the ſubject?</p>
+            <p>Frſt We have ayded the King in this warre contrary to the negative oath and other votes, Our warrant is the twenty fifth of <hi>Edward</hi> the third, the ſecond Chapter, and the ſaid reſolutions of all the Judges.</p>
+            <p>Secondly Wee have maintained the Commiſſion of Array by the Kings Command, contrary to their votes: We are waranted by the ſtatute of the fifth of <hi>Henry</hi> the fourth and the judgment of Sir <hi>Edward</hi> Cooke, the Oracle of the Law as they call him.</p>
+            <p>Thirdly We maintained Arch-Biſhops and Biſhops whom they would ſuppreſſe. Our warrant is <hi>Magna Charta</hi> and many ſtatutes more.</p>
+            <p>Fourthly We have maintained the booke of common prayer, they ſuppreſſe it, Our warrant is five Acts of Parliament in <hi>Edward</hi> the ſixt and Queene <hi>Elizabets</hi> time 5. <hi>Peſchae.</hi> 35. <hi>Elizabeth inter placita Coronae in Banco Regis;</hi> New booke of Entries fol. 252. <hi>Penry</hi> for pub<g ref="char:EOLhyphen"/>liſhing two ſcandalous Libels againſt the Church govern<g ref="char:EOLhyphen"/>ment, was indicted arraigned attainted and executed at Tyburne.</p>
+            <p>Fifthly We maintained the Militia of the kingdom to be<g ref="char:EOLhyphen"/>long to the King, they the contrary, Our warrant is the ſtatute of the ſeventh of <hi>Edward</hi> the firſt and many ſta<g ref="char:EOLhyphen"/>tutes ſithence, the practiſe of all times, and the cuſtome of the Realm.</p>
+            <p>Sixthly We maintained the counterfeiting of the great Seale to be high Treaſon, and ſo of the uſurpation of the Kings Forts, Ports, Shipping, Caſtles and his Revenue, and the Coyning of money, againſt them; Wee have our war<g ref="char:EOLhyphen"/>rant by the ſaid ſtatute of the twenty fifth of <hi>Edward</hi> the
+<pb n="21" facs="tcp:179485:12"/>third, Chapter the ſecond and divers others ſince, and the practiſe of all times.</p>
+            <p>Sevenethly We mintayne that the King is the only ſu<g ref="char:EOLhyphen"/>preme governer in all cauſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. They that his Majeſtie is to be governed by them, Our warrant is the ſtatutes of the firſt of Q. <hi>Eliza.</hi> Chapter the firſt, and the fifth of Q. <hi>Elizabeth</hi> Chapter the firſt.</p>
+            <p>Eighthly We maintayne that the King is King by an inhaerent birth-right, by nature, by gods law, and by the law of the land,
+<note place="margin">9 <hi>Ed.</hi> 4. <hi>ſol.</hi> 4.</note> They ſay his Kingly right is an office upon truſt, Our warrant is the ſtatute of the firſt of king <hi>James,</hi> Chapter the firſt. And the reſolution of all the Judges of England in <hi>Calvins</hi> caſe.</p>
+            <p>Nynthly We maintain that the politique capacity is not to be ſevered from the natural. They hold the contrary: Our warrant is two ſtatutes <hi>(viz.) Exilium Hugonis</hi> in <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the ſeconds time, and the firſt of <hi>Edward</hi> the third, Chapter the ſecond, and their Oracle who hath publiſhed it to poſterity, that it is damnable, deteſtable and execrable treaſon, <hi>Calvins</hi> Caſe <hi>pars</hi> 7. <hi>ſol.</hi> 11.</p>
+            <p>Tenthly We maintaine that who aydes the King at home or abroade ought not to be moleſted or queſtioned for the ſame, They hold and practiſe the contrary. Our war<g ref="char:EOLhyphen"/>rant is the ſtatute of the eleventh of <hi>Henry</hi> the ſeventh, Chapter the firſt.</p>
+            <p>Eleventhly We maintayne that the King hath power to diſaſſent to any Bill agreed by the two houſes; which they deny. Our warrant is the ſtatute of the ſecond of <hi>Henry</hi> the fift, and the practiſe of all times, the firſt of King <hi>Charles,</hi> Chapter the ſeventh, the firſt of King <hi>James</hi> Chap<g ref="char:EOLhyphen"/>ter the firſt.</p>
+            <p>Twefthly We maintayne that Parliaments ought to be holden in a grave and peaceable manner, without tumults They allowed multitudes of the meaner ſort of people to come to Weſtminſter to cry for Juſtice when they could
+<pb n="20" facs="tcp:179485:12"/>not have their will,
+<note place="margin">Coll. of Ord. <hi>fol.</hi> 31.</note> and keepe guards of armed men to waite upon them. Our warrant is the ſtatute of the ſeventh of <hi>Edward</hi> the ſecond and their Oracle.</p>
+            <p>Thirteenthly We maintaine that there is no ſtate with<g ref="char:EOLhyphen"/>in this kingdome but the Kings Majeſty, and that to ad<g ref="char:EOLhyphen"/>haere to any other ſtate within this kingdome is high Trea<g ref="char:EOLhyphen"/>ſon. Our warrant is the ſtatute of the thrid of King <hi>James</hi> Chapter the fourth, and the twentie third of Q. <hi>Eliza.</hi> Chapter the firſt.</p>
+            <p>Fourteenthly We maintayne that to leavy a warre to remove Councellours, to alter Religion, or any Law eſtabliſhed, is high treaſon, They hold the contrary. Our warrant is, the reſolutions of all the Judges of England in Quene <hi>Elizabeths</hi> time, and their Orracle agrees with the ſame.</p>
+            <p>Fiftteenthly We maintaine that no men ſhould be im<g ref="char:EOLhyphen"/>priſoned, put out of his lands, but by due courſe of Law, and that no man ought to be adjudged to death but by the law eſtabliſhed, the cuſtomes of the Realm, or by Act of Parliament; Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y practiſe the contrary in London, Briſtoll, Kent &amp;c. Our warrant is <hi>Magna Charta</hi> Chap<g ref="char:EOLhyphen"/>ter the twenty ninth, the <hi>Petition of right.</hi> the third of King <hi>Charles,</hi> and divers lawes there mentioned.</p>
+            <p>We of the Kings party did and do deteſt Monopolies, and ſhip money, and all the grievances of the people as much as any men living, we do well know that our eſtates lives and fourtunes are preſerved by the lawes, and that the King is bound by his lawes, we love Parliaments If the Kings, Judges, counſell or miniſters have done a miſſe, they had from the third of <hi>November</hi> 1640 to the tenth of <hi>January</hi> 1641, time to puniſh them, being all left to Juſtice; Where is the Kings fault?</p>
+            <p>The Law ſaith the King can do no wrong, that he is <hi>medicus regni, pater patriae, ſpouſus regni,
+<note place="margin">11 <hi>pars. Cookes Reports. Mag<g ref="char:EOLhyphen"/>dalen Colledge</hi> Caſe</note> qui per anulum</hi> is eſpouſed to his Realme at his Coronation; the King
+<pb n="22" facs="tcp:179485:13"/>is Gods Lieutenant, and is not able to doe an unjuſt thing, Theſe are the words of the law.</p>
+            <p>One great matter is pretended that the people are not ſure to enjoy the acts paſſed this Parliament, A ſucceeding Parliament may repeale them; The objection is very weake, a Parliament ſucceeding to that may repeale that repealing Parliament. That feare is endleſſe and reme<g ref="char:EOLhyphen"/>dileſſe, for it is the eſſence of Parliaments being compleate and as they ought to be, of head and all the members, to have power over Parliaments before; Parliaments are as the time are; if a turbulent faction prevailes; the Par<g ref="char:EOLhyphen"/>liaments are wicked, as appeares by the examples recited before of extreame wicked Parliaments: if the times be ſober and modeſt, prudent and not byaſſed, The Parlia<g ref="char:EOLhyphen"/>ments are right, good and honorable, and they are good Medicines and ſalves, but in this Parliament <hi>exceſſit medi<g ref="char:EOLhyphen"/>cina modum.</hi>
+            </p>
+            <p>In this cauſe and warre betweene the Kings Majeſty and the two houſes at Weſtminſter, what guide had the ſub<g ref="char:EOLhyphen"/>jects of the land to direct them but the Lawes? What meanes could they uſe to diſcerne what to follow, what to avoide but the Lawes? The King declares it Treaſon to ad<g ref="char:EOLhyphen"/>here to the Houſes in this warre: The Houſes declare it Treaſon to adhere to the King in this Warre. The Subjects for a great and conſiderable part of them (treaſon being ſuch a crime as forfets life and eſtate and alſo renders a mans poſterity baſe beggerly and infamons) looke upon the Lawes, and finde the lettr of the law re<g ref="char:EOLhyphen"/>quires them to aſſiſt the King, as before is manifeſted, was ever ſubject criminally puniſht in any age or na<g ref="char:EOLhyphen"/>tion for his purſuit of what the letter of the Law com<g ref="char:EOLhyphen"/>mands?</p>
+            <p>The Subjects of the kingdome finde the diſtinction and interpretation now put upon the Lawes of <hi>Abſtractum &amp; Concretum,</hi> Power and Perſon, body politique, and
+<pb n="23" facs="tcp:179485:13"/>naturall, Perſonall preſence and virtuall, to have beene condemned by the law: And ſo the Kings party hath both the letter of the law and the interpretation of the letter cleared to their judgments, whereby they might evident<g ref="char:EOLhyphen"/>ly perceive what ſide to adbaere to, what ſatisfaction could modeſt peaceable and loyall men more defire?</p>
+            <p>
+               <hi>A verbo legis in criminibus &amp; poenis non eſt recedendum,</hi> hath beene an approved maxime of law in all ages and times. If the King be King and remain in his Kingly office (as they call it) then all the ſaid lawes are againſt them without colour:
+<note place="margin">Coll of Ordi<g ref="char:EOLhyphen"/>nances 777.</note> they ſay the ſaid lawes relate to him in his office, they cannot ſay otherwiſe, Commiſſions and pardon in the Kings name, and the perſon of the King and his body politique cannot, nor ought to be ſevered as hath beene before declared:
+<note place="margin">5 <hi>Eliz. cap.</hi> 1. 1 <hi>Eliz. cap.</hi> 1.</note> And the members of both houſes have ſworn conſtantly in this Parliament that the King is the only ſupreme Governour in all cauſes over all perſons at this preſent time.</p>
+            <p>For that of verball or perſonall commands of the King which is objected, We affirme few things to be ſubject thereto by the law: But his Majeſties Command un<g ref="char:EOLhyphen"/>der his great Seale, which in this warre hath beene uſed by the Kings command for his Commiſſion to leavy and array men, that is no perſonall command (which the law in ſome caſes diſallowes) but that is ſuch a com<g ref="char:EOLhyphen"/>mand, ſo made, as all men hold their lands by, who hold by Patents; All corporations have their Chartera which hold by Charters, and all Judges and officers their pla<g ref="char:EOLhyphen"/>ces and callings.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> It is objectd the King cannot ſuppreſſe his Courts of Juſtice, and that this warre tended to their ſuppreſſion.
+<note place="margin">7 <hi>pars</hi> The Earle of Weſt<g ref="char:EOLhyphen"/>merlands Caſe. 1 <hi>Eliz. Dier</hi> 165. 7 <hi>pars Cooke.</hi>
+               </note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> The anſwer is the King cannot, nor ought to ſuppreſſe Juſtice or his Courts of Juſtice, nor ever did: But Courts of Jnſtice by <hi>abuſer or non uſer</hi> ceaſe to be courts of Juſtice; when Judges are made and proceedings in thoſe courts
+<pb n="24" facs="tcp:179485:14"/>holden by others then Judges made by the King, and a<g ref="char:EOLhyphen"/>gainſt his command under the great Seale, and his Ma<g ref="char:EOLhyphen"/>jeſtie is not obeyed,
+<note place="margin">The caſe of diſ<g ref="char:EOLunhyphen"/>continuance of Proceſſe.</note> but the votes of the houſes, they ceaſe to be the Kings Courts and are become the Courts of the houſes, and his Judges breaking that condition in law, of truſt and loyalty, implied in their Patents, are no longer his Judges; they obey and exerciſe their places by virtue of writts and proceſſes under a counterfet Seale. The King only can make Judges, the twenty ſeventh of <hi>Henry</hi> the eighth, Chapter the twenty fourth, <hi>Juſtices of the Peace, &amp;c.</hi> twenty eighth of <hi>Henry</hi> the eighth <hi>Dier</hi> the ele<g ref="char:EOLhyphen"/>venth, the Kings Patent makes Judges: The cheefe Ju<g ref="char:EOLhyphen"/>ſtice of the Kings Bench is made by the Kings writt only of all the Judges.</p>
+            <p>The great Seale is the key of the kingdome,
+<note place="margin">
+                  <hi>Avticuli ſuper chartas cap.</hi> 5.</note> and meete it is that the King ſhould have the key of his kingdome about him; 2 <hi>pars inſtit</hi> 552. which confutes their ſay<g ref="char:EOLhyphen"/>ing that the King got the Seale away ſurreptitiouſly.</p>
+            <p>The King, and he only, may remove his Courrs from Weſtminſter into ſome other place,
+<note place="margin">
+                  <hi>Britton ſol.</hi> 23.</note> at Yorke the Termes were kept for ſeven yeares, in <hi>Edward</hi> the ſirſt's time: but for the Court of Common pleas, the place muſt be ceataine; for the Kings Bench and Chancery, the King by the law may command them to attend his perſon alwayes if it ſeeme ſo meete unto him: but the removing of the Common pleas muſt be to a place cer<g ref="char:EOLhyphen"/>taine, and ſo notified to the people.</p>
+            <p>All the bookes of law in all times agree,
+<note place="margin">34. <hi>Aſſis. pl.</hi> 24. 22 <hi>Ed.</hi> 4. <hi>Fitz: juriſdiction laſt placit.</hi> 6 <hi>H.</hi> 7.9. 6 <hi>Eliz. Dier</hi> 226.</note> that the King may grant couuſance of all Pleas at his pleaſure within any County or precinct to bee holden there only, and remove the Courts from Weſtminſter to ſome other place (for the Common Pleas, the place muſt be certaine and ſo notified to the people) and adjourne the termes as hee ſees cauſe. All which the two houſes have violated. <hi>Plebs ſine lege ruit.</hi>
+            </p>
+            <pb n="25" facs="tcp:179485:14"/>
+            <p>Some ſeeming objections of Maſter <hi>Prinn's,</hi> ſeettered in divers books, anſwered and the truth thereby more ful<g ref="char:EOLhyphen"/>ly cleared.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>1</label> The firſt of <hi>Henry</hi> the fourth reviveth the ſtatute of the eleventh of <hi>Richard</hi> the ſecond, and repeales to the twelfth of <hi>Richard</hi> the ſecond, whereby certaine perſons were declared traytors to the King and kingdome, being of the Kings party.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> True, but note, the eleventh of <hi>Richard</hi> the ſecond, A Parliament beſet with 40000 men, and the King aſſents to it, ſo an Act, and beſides the firſt of <hi>Henry</hi> the fourth de<g ref="char:EOLhyphen"/>clares that that treaſons mentioned in the act of the ele<g ref="char:EOLhyphen"/>venth of <hi>Richard</hi> the ſecond, being but againſt a few pri<g ref="char:EOLhyphen"/>vate men ſhall not be drawn into example, and that no Treaſon ſhould be but ſuch as the twenty fiſt of <hi>Edward</hi> the third declares.
+<note place="margin">9 <hi>Ed.</hi> 4. <hi>fol.</hi> 80.</note> All theſe are Acts paſſed by the King and the three eſtates, not to be drawne into example in a tumultuous time, by a beſieged Parliament, with an ar<g ref="char:EOLhyphen"/>my, and the confirmer <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Henry</hi> the fourth being an uſur<g ref="char:EOLhyphen"/>per makes that act of the firſt of <hi>Henry</hi> the fourth to ſecure himſelfe. Alſo what is this to the votes of the two houſes only at this time.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>2</label> The Court of Parliament is above the King, for it may avoid his Charters Commiſions &amp;c. granted againſt the law.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> And the Law is above the King.</p>
+            <p> By the ſame reaſon you may ſay that the Courts of Chancery, or any of the Courts of law at weſtminſter are above the King, for they make of no effect the Kings Charters, which are paſſed againſt the law: and the King is Subject to law, and ſworne to maintaine it. Again it is no Parliament without the King, and the King is the head thereof, he is <hi>principium Caput &amp; finis</hi> of a Parliament as <hi>Medas tenendi Parliament.</hi> hath it, and two houſes only, want <hi>principium Caput &amp; finis</hi> of a Parli<g ref="char:EOLhyphen"/>ament
+<pb n="26" facs="tcp:179485:15"/>and it is a ſorry Parliament that wants all theſe. And therefore to ſay that Parliaments are above the King, is to ſay that the King is above himſelfe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>3</label> The Parliament can enlarge the Kings prerogative, there<g ref="char:EOLhyphen"/>fore it is above him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> If the King aſſent otherwiſe not, and then it is an act of Parliament and otherwiſe no Act.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>4</label> 
+               <hi>Bracton</hi> ſaith God, the Law, and the Kings Court <hi>(viz)</hi> his Earles and Barrons are above the King. <hi>(viz)</hi> in Parliament, as Maſter <hi>Prinne</hi> expounds it,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Where is then the houſe of Commons? Indeed take God, the Law, and Earles and Barrons together it is true, but to affirme that the Earles and Barrons in Parli<g ref="char:EOLhyphen"/>ament are above the King (the King being the head of the Parliament, and they one of the members) how an infe<g ref="char:EOLhyphen"/>rior member is above the head, is hard to cenceive; be<g ref="char:EOLhyphen"/>ſides that poſition deſtroyes all Maſter <hi>Prinns</hi> diſcourſe, who attributes ſo much to the houſe of Commons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>5</label> The King is but one of the three eſtates of Parliament, and two are greater then one; therefore above,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> The Leggs Armes and trunke of the Body are greater then the head and yet not above: nor with life without it; The argument holds for quantity but not for quality, and in truth the King is none of the three eſtates, but above them all, the three eſtates are the Lords Spriritu<g ref="char:EOLhyphen"/>all, the Lords Temporall, and the Commons; <hi>Cooke</hi> their Oracle in his Chapter of Parliaments, Folio the firſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>6</label> In corporations the greater number of voices make all the Acts of the corporation valid; therefore ſo in Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> By this reaſon the Kings aſſent is needleſſe and to no end, and all the Acts of Parliament formerly mentioued, and law bookes have quite miſtaken the matter which with unanimous voice requires the Kings aſſent as nece<g ref="char:EOLhyphen"/>ſſary.
+<pb n="27" facs="tcp:179485:15"/>Beſides the Corporations are ſo conſtituted by the Kings Charters, that the greater number of votes ſhall make their Acts valid.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>7</label> The King, as King, is preſent in his Parliament as well as in all other his Courts of Juſtice, how be it he is not there,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> In his other Courts of Juſtice he hath no voice, he is none of the Judges, in the Parliament he hath, if his preſence be not neceſſary his voice is not, nor his aſ<g ref="char:EOLhyphen"/>ſent.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>8</label> The originall prime legiſlative power of making Lawes to bind the ſubjects and their poſterity,
+<note place="margin">Soveraign po<g ref="char:EOLhyphen"/>wer of Parlia<g ref="char:EOLhyphen"/>ments. 46.47.</note> reſts not in the King, but in the kingdome and Parliament which repre<g ref="char:EOLhyphen"/>ſents it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Maſter <hi>Prinne</hi> in the ſame leaſe affirmes, and truly, that the Kings aſſent is generally requiſite to paſſe lawes and ratifie them, the King is the head of the kingdome and Parliament, how then can a body act without a head?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>9</label> A major part of a Corporation binds, therefore the Ma<g ref="char:EOLhyphen"/>jor part in Parliament, and ſo of by Lawes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> The Corporation is ſo bound, either by the Kings Char<g ref="char:EOLhyphen"/>ters, or by preſcription, which ſometimes had the Kings conceſſion: but preſcription, and Law, and practiſe, alwayes left the King a negative voice.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>10</label> The King cannot alter the Bills preſented to him by both houſes g<hi rend="sup">o</hi>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> True but the King may refuſe them,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>11</label> Acts of Parliament and Lawes miniſtred in the Reignes of uſurpers bind rightfull Kings. g<hi rend="sup">o</hi>.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> What is this to prove the two houſes power only, which is the queſtion, A King <hi>de facto</hi> muſt be obeyed by them who ſubmitted to him, and they are his Subjects by their ſubmiſſion, and not Subjects <hi>defacto</hi> to the true King,
+<note place="margin">9 <hi>Ed.</hi> 4.12.</note> and ſuch being Traytors and Rebells to the re<g ref="char:EOLhyphen"/>gent King (having renounced the true King) when the
+<pb n="28" facs="tcp:179485:16"/>lawfull Kings is reſtored, may be puniſhed by him for their treaſon againſt the uſurper. But heere is a King ſtill in both caſes, and the proceedings at law holds; The Judges having their patents from the being Kings, in the reignes of Kings, <hi>de facto</hi> or <hi>dejure,</hi> for all Kings are bound and ſworne to obſerve the lawes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>12</label> A King dies without Heyre, is an infant, <hi>non Compos mentis &amp;c.</hi> the two honſes may eſtabliſh Lawes. g<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol: </seg>
+               </label> There is no <hi>Inter-regnum</hi> in England, as appeares by all our books of law, and therfore the dying without Heyre is a Vaine ſuppoſition, and by their principle he is con<g ref="char:EOLhyphen"/>ſiderable in his politique capacity, which cannot die at all: The protector aſſiſted by the Councell of the King at law, his twelve Judges, the councell of ſtate, his Attorney, Solicitor and two Sergieants at law, his twelve Maſters of the Chancery, hath in the Kings be<g ref="char:EOLhyphen"/>halfe and ever had, a negative Voice; but what is this to the preſent queſtion; Wee have a King of full age, of great wiſdome and judgement, The power of the two houſes in ſuch a caſe to be over the King cannot be ſhowne.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>13</label> The King cannot diſaſſent to publique and neceſſary Bills for the common good. g<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Nor ever did good King, but who ſhall be judge whe<g ref="char:EOLhyphen"/>ther they be publique and neceſſary? The major part in either of the houſes for paſſing of bills ſo pretended may be but one or two voices or very few; and perhaps of no judicious men, is it not then fitter or more agreeable to rea<g ref="char:EOLhyphen"/>ſon; that his Majeſtie, and Councell of State, his twelve Judges, his Sergieants, Attorny and Solicitor, twelve Maſters of the Chancery ſhould judge of the conveni<g ref="char:EOLhyphen"/>ency and benefit of ſuch Bills for the publique good, rather then a minor (of which ſort there may be in the houſes) or a weake man, or a few, who often times carry it by making the Major part, which involves the conſent of all? Let reaſon determine.</p>
+            <pb n="29" facs="tcp:179485:16"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>14</label> The Kings of England have beene elective, and the King by his Coronation Oath is bound to maintaine <hi>ju<g ref="char:EOLhyphen"/>ſtas leges &amp; conſuetudines quas vulgas elegerit.</hi> g<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> Popery hath beene in the kingdome and therefore to continue it ſtill will not be taken for a good argument, when things are ſetled for many ages, to looke back to times of confuſion, is to deſtroy all repoſe: The Act of Parliament of the firſt of K. <hi>James.</hi> Chapter the firſt and all our extant lawes ſay, that the Kings office is an heritage inhaerent in the blood of Our Kings and their byrth-right.</p>
+            <p>And uſurpers that come in by the conſent of the people,
+<note place="margin">1 <hi>Ed.</hi> 4. <hi>cap.</hi> 1.</note> are Kings <hi>de facto</hi> but not <hi>de jure</hi> as appeares by the acts of Parliament declaring them ſo. And by all our law books and the fundamentall conſtitution of the Land, Re<g ref="char:EOLhyphen"/>gall power is herditary and not elective.</p>
+            <p>For the words <hi>(vulgus elegerit)</hi> if <hi>vulgus</hi> be applied to the houſe of commons,
+<note place="margin">1 <hi>H.</hi> 7.</note> they if themſelves can make no laws? The Peeres were never yet termed <hi>vulgus,</hi> but allowing they be ſo called, the lawes to be made muſt be juſt and who is fit to judge thereof is before made evi<g ref="char:EOLhyphen"/>dent.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>15</label> Cuſtomes cannot referre to future time, and both are coupled, Lawes and Cuſtomes.</p>
+            <p>Princes have beene depoſed, and may bee by the two houſes. g<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> The depoſers were Traytors as appeares by the reſo<g ref="char:EOLhyphen"/>lution of all the judges of England; <hi>Cooke</hi> Chapter: Trea<g ref="char:EOLhyphen"/>ſon in the ſecond part of the Inſtitutes. And never was King depoſed but in tumultuous and mad times, and by the power of Armies, and they who were to be the ſuccee<g ref="char:EOLhyphen"/>ding Kings, in the head of them, as <hi>Edward</hi> the third and <hi>Henry</hi> the fourth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>16</label> The appeale to the Parliament for errors in judgements in all Courts, is frequent. g<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> This is only to the houſe of Lords, and that is not the
+<pb n="30" facs="tcp:179485:17"/>Parliament: the houſe of Commons have nothing to doe therewith and in the houſe of Peeres, if a writt of er<g ref="char:EOLhyphen"/>ror be brought to reverſe any judgment. There is firſt a Petition to the King for the allowance thereof, and the reaſon of the Law in this Caſe is for that the Judges of the Land all of them, the Kings Councell, and twelve Maſters of the Chancery aſſiſt there, by whoſe advice erroneous judgments are redreſſed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>17</label> The Parliaments have determined of the rights of Kings, as in <hi>Henry</hi> the ſixts time, and others, and Parliaments have bound the ſucceſſion of Kings, as appeares by the ſtatute of the thirteenth of Q. <hi>Eliza,</hi> Chapter the firſt and the diſcent of the Crowne is guided rather by a Parlia<g ref="char:EOLhyphen"/>mentary Title then by common law. g<hi rend="sup">o</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> If this objection be true, that the Title to the Crowne is by Parliament then wee had no uſurpers, for they all had Parliaments to back them, yea <hi>Richard</hi> the third, that Monſter. All our books of law ſay they have the Crowne by diſcent, and the Statutes of the Land declare, that they have the ſame by inherent byrth-right. And the Statute of the thirteenth of <hi>Elizabeth,</hi> the firſt Chapter, was made to ſecure Queene <hi>Elizabeth,</hi> againſt the Queene of <hi>Scots,</hi> then in the Kingdome, clayming the Crowne of England, and having many adherents. And that Statute to that end affirmes no ſuch power in the two Houſes (which is the Queſtion) but in Queene <hi>Esizabeth,</hi> and the two Houſes, which makes againſt the pretence of this time.</p>
+            <p>Maſter <hi>Prinne, fol.</hi> 104. of his booke intituled the Par<g ref="char:EOLhyphen"/>liaments ſupreme Power, &amp;c. Objecting the Statute of the firſt of Queene <hi>Elizabeth,</hi> and his owne Oath, That the King is the only ſupreame Governour of this Realme. Anſweres; The Parliament is the ſupreme Power, and the King ſupreame Governour. And yet there hee allowes him a Negative Voice, And <hi>fol.</hi> 107. confeſſeth that Acts
+<pb n="31" facs="tcp:179485:17"/>of Parliament, tranſlated the Crowne from the right heires at Common-lawe to others who had no good Title; Then the Parliamentary Title makes not the King, ſo powerfull is Truth, that it eſcapes from a man unawares: To make a diſtinction betweene Supreame Governour, and Supream Power, is very ſtrange, For who can Governe without Power?</p>
+            <p>The King aſſembles the Parliament by his Writt,
+<note place="margin">
+                  <hi>Vide</hi> Speede 645. 4 <hi>pars In<g ref="char:EOLhyphen"/>ſtit.</hi> 27. <hi>&amp;</hi> 28.</note> Ad<g ref="char:EOLhyphen"/>journes, Prorogues and Diſſolves the Parliament, by the Lawe at his pleaſure, as is evident by conſtant practiſe, the Houſe of Commons never ſate after an adjournment of the Parliament by the Kings command. Where is the Su<g ref="char:EOLhyphen"/>preame Power?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>18</label> The King, by his Oath, is bound to deny no man Right, much leſſe his Parliament, To agree to all juſt and neceſ<g ref="char:EOLhyphen"/>ſary Lawes propoſed by them to the King. This is the ſubſtance of the diſcourſe againſt the Kings Negative Voice.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> The King is ſo bound as is ſet downe in the Objection, but who ſhall judge whether the Bill propoſed bee juſt and neceſſary: For all that they doe propoſe are ſo pretended and carried in eyther Houſe, ſometimes by one or two voi<g ref="char:EOLhyphen"/>ces; or ſome few as aforeſaid, and certainly as hath beene ſhewn, the King, his Councell of State, his Judges, Sar<g ref="char:EOLhyphen"/>geants, Attorney, Sollicitor, and twelve Maſters of the Chancery can better Judge of them, then two or three or few more.</p>
+            <p>Maſter <hi>Prinne fol.</hi> 45. In his booke of the Parliaments intereſt to nominate Privy-Councellors, &amp;c. calleth the opinion of the <hi>Spencers</hi> to divide the perſon of the King from his Crowne, a ſtrange opinion,
+<note place="margin">
+                  <hi>Calvins</hi> Caſe 7 <hi>pars fol.</hi> 11.</note> and cites <hi>Calvins</hi> Caſe, but leaves out the concluſions therein mentioned, <hi>fol.</hi> 11. Maſter <hi>Prinne</hi> ſaith there, But let this opinion be what it will: without the Kings Grace and Pardon it will goe very far, and two Acts of Parliament there mentioned
+<pb n="32" facs="tcp:179485:18"/>are beyond an opinion. And in his booke of the opening of the Great Seale <hi>fol.</hi> 17. The Parliament hath no ju<g ref="char:EOLhyphen"/>riſdiction to uſe the Great-Seale for Pardons Generall or Particular. Where is the Supreme power?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>19</label> Maſter <hi>Prinnes</hi> (opening of the Seale) <hi>Page</hi> 19. ſaith, The Noblemen and State, the day after the funerall of King <hi>Henry</hi> the third (king <hi>Edward</hi> the firſt his ſonne being in the holy Land) made a new Great-Seale, and Keepers of the ſame: And in <hi>Henry</hi> the ſixts time, in the firſt yeere of his Reigne, the like was done in Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> 
+               <hi>A facto, ad jus,</hi> is no good Argument, for that in <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the firſts time, it was no Parliament, for King <hi>Henry</hi> the third was dead, which diſſolved the Parliament, if cal<g ref="char:EOLhyphen"/>led in his time, and it could bee no Parliament of <hi>Edward</hi> the firſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time, for no writ iſſued to ſummon a Parliament in his name, nor could iſſues but under that new Seale, it was ſo ſodainly done after <hi>Henry</hi> the thirds death, King <hi>Edward</hi> the firſt being then in the holy-Land, it was the firſt yeere of his Reigne, and no Parliament was held that yeere, not the ſecond yeere of his Reigne, The firſt Parliament that was in his Reigne, was in the third yeere of his Reigne, as appeares by the Printed Acts. Alſo the making of that Seale was by ſome Lords then preſent, What hand had the Commons in it? Concerning the Seale made in <hi>Henry</hi> the ſixts time, the Protector was vice-Roy according to the courſe of Lawe, and ſo the making of that Seale was by the Protector in the Kings name; and that Protector <hi>Humphry</hi> Duke of Glouceſter, as Protector, in the Kings name, ſum<g ref="char:EOLhyphen"/>moned that Parliament, and was Protector made by the Lords, and not in Parliament, as appeareth plainly, for that Parliament was in the firſt of <hi>Henry</hi> the ſixt, and the firſt holden in his time, and power given by Commiſſion to the ſaid Dake, then Protector, to ſummon that Parliament. <hi>Prinne ibid. fol.</hi> 19. But the new Counterfeit Seale was
+<pb n="33" facs="tcp:179485:18"/>made when the King was at Oxford, in his owne kingdom and not in the holy-Land.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>20</label> Maſter <hi>Prinue</hi> in his Booke of the two Houſes po<g ref="char:EOLhyphen"/>wer to impoſe Taxes, reſtrayne Malignants againſt a<g ref="char:EOLhyphen"/>ny <hi>Habeas Corpus,</hi> &amp;c. ſaith that the Parliament is a<g ref="char:EOLhyphen"/>bove <hi>Magna Charta,</hi> and <hi>folio</hi> 15 <hi>ibid.</hi> The Parliament hath power over <hi>Magna Charta</hi> to repeale the ſame when there is Cauſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> This Argument ſuppoſeth that they have the Kings power, which hath appeared formerly they have not. But ſuppoſe they had, <hi>Magna Charta</hi> contaynes ma<g ref="char:EOLhyphen"/>ny morall Lawes, which by the Lawe of the Land a Par<g ref="char:EOLhyphen"/>liament cannot alter, 21. <hi>H.</hi> 7.2. <hi>Dr. &amp; Student,</hi> 2. <hi>Dia<g ref="char:EOLhyphen"/>logue.</hi> For example, it ſaith <hi>cap.</hi> 18. Juſtice ſhall not be ſold, dlayed nor denyed to any man, but by this Argu<g ref="char:EOLhyphen"/>ment the Parliament may make Lawe to delay, deny, and to ſell Juſtice, which ſurely is a very ill poſition to maintaine.</p>
+            <p>What they would have doth now by the Propoſiti<g ref="char:EOLhyphen"/>ons ſent to Newcaſtle to his Majeſtie appeare, where<g ref="char:EOLhyphen"/>by they would have him diveſt himſelfe and ſettle in them all his kingly power by Sea and Land, and of themſelves to have power, without him, to lay upon the people of this Land, what Taxes they thinke meete, to aboliſh the Com<g ref="char:EOLhyphen"/>mon-prayer booke, to aboliſh Epiſcopacy, and to in<g ref="char:EOLhyphen"/>troduce a Church government not yet agreed, but ſuch as they ſhall agree on.</p>
+            <p>His Majeſty finding a prevayling party in both Houſes to ſteere this courſe, and being chaſed away with Tu<g ref="char:EOLhyphen"/>mults from London, leaves the Houſes for theſe reaſons.</p>
+            <p>(viz.)</p>
+            <p>FIRST, Becauſe to alter the Government for Reli<g ref="char:EOLhyphen"/>gion, is againſt the Kings Oath.</p>
+            <pb n="34" facs="tcp:179485:19"/>
+            <p>Secondly, Againſt their Oathes: For every of them hath ſworne in this Parliament, That his Majeſty is the only ſupreame Governour in all Cauſes Eccleſiaſticall and over all Perſons.</p>
+            <p>Thirdly, This courſe is againſt <hi>Magna Charta,</hi> the firſt Chapter and the laſt. <hi>Salvae ſuis Epiſcopis omnes li<g ref="char:EOLhyphen"/>bertates ſuae,</hi> Confirmed by thirty two Acts of Parli<g ref="char:EOLhyphen"/>ament, And in the two and fortieth of <hi>Edward</hi> the third, in the firſt Chapter enacts, If any Statute bee made to the contrary it ſhall be holden for none, and ſo it is for Judge<g ref="char:EOLhyphen"/>ments at La we, in the twenty fift of <hi>Edward</hi> the firſt, chap<g ref="char:EOLhyphen"/>ter the firſt and the ſecond, The great <hi>Charter</hi> is declared to be the Common-lawe of the Land.</p>
+            <p>Fourthly, They indeavour to take away by their Propoſitions, the Governement of Biſhoppes, which is as ancient as Chriſtianity in this Land, and the booke of Common-Prayer, ſetled by five Acts of Parliament, and compiled by the Reformers and Martyres, and practiſed in the time of foure Princes.</p>
+            <p>Fiftly, Theſe Propoſitions taking away from his Ma<g ref="char:EOLhyphen"/>jeſty all his power by Land and Sea, Rob him of that which all his Anceſtours Kings of this Realme have enjoyed. That Enjoyment and Uſage makes the Lawe, and a Right, by the ſame to his Majeſty. They are againſt their owne Proteſtation made this Parliament <hi>(viz.)</hi> to maintaine his royall Perſon, Honour and E<g ref="char:EOLhyphen"/>ſtate; They are againſt their Covenant, which doth ſay that they will not diminiſh his juſt Power and Greatneſſe.</p>
+            <p>For theſe Reaſons his Majeſty hath left them, and as is beleeved will refuſe to agree to the ſaid Propo<g ref="char:EOLhyphen"/>ſitions, as by the Fundamentall Lawe of the Land hee may (having a Negative Voyce) to any Bills propoſed.</p>
+            <pb n="35" facs="tcp:179485:19"/>
+            <p>The reſult of all is, upon the whole matter. That the king thus leaving of the Houſes, and his deniall to paſſe the ſaid Propoſitions, are ſo farre from making him a Tyrant, or not in a condition to Governe, at the preſent; That there<g ref="char:EOLhyphen"/>by he is rendred a Juſt, Magnanimous and Pious Prince, ſo that by this it appeares cleerely to whom the Miſeries of theſe Times are to bee imputed. The remedy for all is, an Act of Oblivion and a Generall Pardon.</p>
+            <closer>GOD ſave the <hi>KING.</hi>
+            </closer>
+            <closer>
+               <dateline>
+                  <date>28<hi rend="sup">o</hi>. <hi>Aprilis</hi> 1647.</date>
+               </dateline>
+               <signed>David Jenkins. <hi>Now priſoner in the Tower.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
